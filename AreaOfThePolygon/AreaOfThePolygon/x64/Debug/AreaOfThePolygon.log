@@ -1,0 +1,4 @@
+﻿  AreaOfThePolygon.cpp
+C:\Users\rolan\Videos\WK dzik\Desktop_app_lessons\AreaOfThePolygon\AreaOfThePolygon.cpp(91,32): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\rolan\Videos\WK dzik\Desktop_app_lessons\AreaOfThePolygon\AreaOfThePolygon.cpp(97,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  AreaOfThePolygon.vcxproj -> C:\Users\rolan\Videos\WK dzik\Desktop_app_lessons\AreaOfThePolygon\x64\Debug\AreaOfThePolygon.exe

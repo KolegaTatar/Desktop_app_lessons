@@ -1,17 +1,17 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\",
+  "WorkspaceRootPath": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|solutionrelative:Main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|solutionrelative:Object_project.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{B7369F0B-BA38-4A97-8C19-57DB5E15C4DC}|Object_project.vcxproj|solutionrelative:Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -28,22 +28,21 @@
               "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Object.h",
-              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object.h",
+              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object.h",
               "RelativeDocumentMoniker": "Object.h",
-              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object.h",
+              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object.h",
               "RelativeToolTip": "Object.h",
               "ViewState": "AQIAAAMAAAAAAAAAAAAwwAYAAAAKAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2024-10-30T14:03:22.687Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T14:03:22.687Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Main.cpp",
-              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Main.cpp",
+              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Main.cpp",
               "RelativeDocumentMoniker": "Main.cpp",
-              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Main.cpp",
+              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Main.cpp",
               "RelativeToolTip": "Main.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAUAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
@@ -54,14 +53,13 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Object_project.cpp",
-              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object_project.cpp",
+              "DocumentMoniker": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object_project.cpp",
               "RelativeDocumentMoniker": "Object_project.cpp",
-              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Object_project\\Object_project.cpp",
+              "ToolTip": "C:\\Users\\rolan\\Videos\\WK dzik\\Desktop_app_lessons\\Object_project\\Object_project.cpp",
               "RelativeToolTip": "Object_project.cpp",
               "ViewState": "AQIAAAMAAAAAAAAAAAAAABEAAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-10-30T13:14:11.05Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-30T13:14:11.05Z"
             }
           ]
         },
